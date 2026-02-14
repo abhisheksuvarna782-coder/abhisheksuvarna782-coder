@@ -1,4 +1,4 @@
-💫 About Me:
+💫 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘:
 <h1 align="center">Abhishek Suvarna</h1><br><br><h3 align="center"><br>💻 Computer Science (AIML) Student | 🤖 AI Enthusiast | 🚀 Aspiring Full-Stack Developer<br></h3><br><br><hr><br><br><p>🌟 Passionate about building real-world solutions using technology and continuously learning new skills.</p><br><br><p>🔭 Currently working on full-stack web development projects</p><br><br><p>🌱 Learning Artificial Intelligence, Machine Learning & MERN Stack</p><br><br><p>👯 Looking to collaborate on Python, Web Dev, and AI/ML projects</p><br><br><p>💬 Ask me about Python, Frontend Development, and GitHub Projects</p><br><br><p>🎯 Goal: Become a skilled AI Engineer & Full-Stack Developer</p><br><br><p>⚡ Fun fact: I love turning ideas into real working projects 🚀</p><br>
 
 
