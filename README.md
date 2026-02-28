@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250">
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hyy!!+Abhishek+Suvarna+here+👋" />
+</h1>
 💫 About Me:
 <h1 align="center">Abhishek Suvarna</h1><br><br><h3 align="center"><br>💻 Computer Science (AIML) Student | 🤖 AI Enthusiast | 🚀 Aspiring Full-Stack Developer<br></h3><br><br><hr><br><br><p>🌟 Passionate about building real-world solutions using technology and continuously learning new skills.</p><br><br><p>🔭 Currently working on full-stack web development projects</p><br><br><p>🌱 Learning Artificial Intelligence, Machine Learning & MERN Stack</p><br><br><p>👯 Looking to collaborate on Python, Web Dev, and AI/ML projects</p><br><br><p>💬 Ask me about Python, Frontend Development, and GitHub Projects</p><br><br><p>🎯 Goal: Become a skilled AI Engineer & Full-Stack Developer</p><br><br><p>⚡ Fun fact: I love turning ideas into real working projects 🚀</p><br>
 
