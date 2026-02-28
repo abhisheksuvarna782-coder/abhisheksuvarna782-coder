@@ -1,4 +1,10 @@
-![Uploading image.png…]()
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250">
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hyy!!+Abhishek+Suvarna+here+👋" />
+</h1>
 
 </h1>
 💫 About Me:
