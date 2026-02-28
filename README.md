@@ -30,4 +30,34 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abhisheksuvarna782-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Top Projects
+
+<p align="center">
+
+<a href="https://github.com/abhisheksuvarna782-coder/PATHFINDER_AI-PROTOTYPE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksuvarna782-coder&repo=PATHFINDER_AI-PROTOTYPE&theme=dark&hide_border=false" />
+</a>
+
+<a href="https://github.com/abhisheksuvarna782-coder/CYBERGUARD-X">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksuvarna782-coder&repo=CYBERGUARD-X&theme=dark&hide_border=false" />
+</a>
+
+<br>
+
+<a href="https://github.com/abhisheksuvarna782-coder/FUTURE_FS_03">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksuvarna782-coder&repo=FUTURE_FS_03&theme=dark&hide_border=false" />
+</a>
+
+<a href="https://github.com/abhisheksuvarna782-coder/FUTURE_FS_02">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksuvarna782-coder&repo=FUTURE_FS_02&theme=dark&hide_border=false" />
+</a>
+
+<br>
+
+<a href="https://github.com/abhisheksuvarna782-coder/FUTURE_FS_01">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksuvarna782-coder&repo=FUTURE_FS_01&theme=dark&hide_border=false" />
+</a>
+
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
