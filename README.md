@@ -1,102 +1,38 @@
-### Hello! I am an aspiring AI Engineer and Full-Stack Developer with a passion for building real-world solutions using technology. I love turning ideas into working projects and collaborating with like-minded people. I am currently exploring the worlds of AI, Machine Learning, and Full-Stack Web Development and loving every bit of it.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250">
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hyy!!+Abhishek+Suvarna+here+👋" />
+</h1>
 
-[![abhisheksuvarna782-coder](https://komarev.com/ghpvc/?username=abhisheksuvarna782-coder&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abhisheksuvarna782-coder)
+</h1>
+💫 About Me:
+<h1 align="center">Abhishek Suvarna</h1><br><br><h3 align="center"><br>💻 Computer Science (AIML) Student | 🤖 AI Enthusiast | 🚀 Aspiring Full-Stack Developer<br></h3><br><br><hr><br><br><p>🌟 Passionate about building real-world solutions using technology and continuously learning new skills.</p><br><br><p>🔭 Currently working on full-stack web development projects</p><br><br><p>🌱 Learning Artificial Intelligence, Machine Learning & MERN Stack</p><br><br><p>👯 Looking to collaborate on Python, Web Dev, and AI/ML projects</p><br><br><p>💬 Ask me about Python, Frontend Development, and GitHub Projects</p><br><br><p>🎯 Goal: Become a skilled AI Engineer & Full-Stack Developer</p><br><br><p>⚡ Fun fact: I love turning ideas into real working projects 🚀</p><br>
 
-- 🔭 I'm currently working on **AI-Powered Full-Stack Projects**
-- 🌱 I'm currently learning **Artificial Intelligence, Machine Learning & MERN Stack**
-- 👯 I'm looking to collaborate on [PATHFINDER AI](https://github.com/abhisheksuvarna782-coder/PATHFINDER_AI-PROTOTYPE)
-- 💬 Ask me about **Python, Frontend Development, and AI/ML Projects**
-- 📫 How to reach me **abhisheksuvarna782@gmail.com**
-- ⚡ Fun fact **I love turning wild ideas into real working projects 🚀**
 
-&nbsp;
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x._.abhix._.X) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishek.) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhiskeksuvarna782) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheksuvarna782@gmai.com)
 
-[![abhishek](https://github-profile-trophy.vercel.app/?username=abhisheksuvarna782-coder)](https://github.com/abhisheksuvarna782-coder)
+ ![Profile Views](https://komarev.com/ghpvc/?username=abhisheksuvarna782-coder&label=Profile%20views&color=0e75b6&style=flat)
 
-### Connect with me:
 
-[![](https://skillicons.dev/icons?i=gmail)](mailto:abhisheksuvarna782@gmail.com)
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhishek-suvarna-1bb2b6335)
-[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/x._.abhix._.x)
-<a href="https://pin.it/1xi3HrWww"><img src="https://skillicons.dev/icons?i=pinterest" alt="Pinterest" /></a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhisheksuvarna782-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhisheksuvarna782-coder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksuvarna782-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# ⚒️ Languages and Tools ⚒️
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhisheksuvarna782-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-&nbsp;
-
-## ⚒️ Fundamental Languages ⚒️
-
-[![](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,dart,php)](https://skillicons.dev)
-
-&nbsp;
-
-|  |  |
-| --- | --- |
-| ⚒️ **Frontend** ⚒️ | ⚒️ **Backend** ⚒️ |
-| [![](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,sass,mui)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=nodejs,django,flask,php,firebase)](https://skillicons.dev) |
-| ⚒️ **Databases** ⚒️ | ⚒️ **Cloud Services** ⚒️ |
-| [![](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=aws,gcp,netlify,vercel)](https://skillicons.dev) |
-
-&nbsp;
-
-## ⚒️ Frameworks ⚒️
-
-[![](https://skillicons.dev/icons?i=react,angular,flutter,django,flask,bootstrap,tailwind,vite,mui)](https://skillicons.dev)
-
-## ⚒️ Maintenance and Operational Tools ⚒️
-
-[![](https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,postman,canva)](https://skillicons.dev)
-
-&nbsp;
-
-## ⚒️ Mobile Application Development ⚒️
-
-[![](https://skillicons.dev/icons?i=dart,flutter,react)](https://skillicons.dev)
-
-&nbsp;
-
-## ⚒️ Machine Learning & AI ⚒️
-
-[![](https://skillicons.dev/icons?i=py,tensorflow,pytorch)](https://skillicons.dev)
-
-&nbsp;
-
-## ⚒️ Operating Systems ⚒️
-
-[![](https://skillicons.dev/icons?i=windows,ubuntu&perline=14)](https://skillicons.dev)
-
-&nbsp;
-
-## ⚒️ Proficient Software and Tools ⚒️
-
-[![](https://skillicons.dev/icons?i=vscode,git,github,figma,canva,postman,netlify,vercel,firebase,aws,gcp,angular,react,flutter,django,flask,mysql,mongodb,nodejs)](https://skillicons.dev)
-
-&nbsp;
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abhisheksuvarna782-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡ 📊 GitHub Stats ⚡
 
-[![abhisheksuvarna782-coder](https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksuvarna782-coder&show_icons=true&locale=en&layout=compact)](https://github.com/abhisheksuvarna782-coder) [![abhisheksuvarna782-coder](https://github-readme-stats.vercel.app/api?username=abhisheksuvarna782-coder&show_icons=true&locale=en)](https://github.com/abhisheksuvarna782-coder)
-
-[![abhisheksuvarna782-coder](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksuvarna782-coder&)](https://github.com/abhisheksuvarna782-coder)
-
-[![abhisheksuvarna782-coder](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisheksuvarna782-coder&theme=github_dark)](https://github.com/abhisheksuvarna782-coder)
-
-[![abhisheksuvarna782-coder](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisheksuvarna782-coder&theme=github_dark)](https://github.com/abhisheksuvarna782-coder)
-[![abhisheksuvarna782-coder](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisheksuvarna782-coder&theme=github_dark)](https://github.com/abhisheksuvarna782-coder)
-[![abhisheksuvarna782-coder](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisheksuvarna782-coder&theme=github_dark)](https://github.com/abhisheksuvarna782-coder)
-[![abhisheksuvarna782-coder](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisheksuvarna782-coder&theme=github_dark&utcOffset=5.5)](https://github.com/abhisheksuvarna782-coder)
-
-## 🐍 My Contributions 🐍
-
-&nbsp;
-
-[![snake gif](https://github.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/raw/output/github-contribution-grid-snake.svg)](https://github.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/blob/output/github-contribution-grid-snake.svg)
-
-###
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
