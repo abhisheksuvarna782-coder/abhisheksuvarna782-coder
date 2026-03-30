@@ -99,22 +99,4 @@
 [![snake gif](https://github.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/raw/output/github-contribution-grid-snake.svg)](https://github.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/blob/output/github-contribution-grid-snake.svg)
 
 ###
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: abhisheksuvarna782-coder
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
