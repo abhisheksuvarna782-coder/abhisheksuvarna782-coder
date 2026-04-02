@@ -252,6 +252,26 @@ Hello! I am a **Computer Science (AIML)** student with a burning passion for **A
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/output/github-contribution-grid-snake.svg"/>
+    name: Generate Snake
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: abhisheksuvarna782-coder
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg@dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   </picture>
 </div>
 
