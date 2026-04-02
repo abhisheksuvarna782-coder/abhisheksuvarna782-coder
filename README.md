@@ -1,6 +1,6 @@
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abhisheksuvarna782-coder&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhisheksuvarna782-coder&style=flat-square&color=orange" alt="Profile Views"/>
 </div>
 
 ---
@@ -221,7 +221,7 @@ Hello! I am a **Computer Science (AIML)** student with a burning passion for **A
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhisheksuvarna782-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksuvarna782-coder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=abhisheksuvarna782-coder&theme=dark&hide_border=true&fire=FF6600&ring=FF6600&currStreakLabel=FF6600&sideLabels=FF6600&dates=FFFFFF&currStreakNum=FF6600&sideNums=FFFFFF" width="48%" alt="GitHub Streak"/>
 
 </div>
 
@@ -239,7 +239,7 @@ Hello! I am a **Computer Science (AIML)** student with a burning passion for **A
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhisheksuvarna782-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhisheksuvarna782-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -269,7 +269,7 @@ Hello! I am a **Computer Science (AIML)** student with a burning passion for **A
 
 <div align="center">
 
-### 🙏 Thanks for Visiting! Don't forget to ⭐ some repos!
+###  Thanks for Visiting! Don't forget to ⭐ some repos!
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
