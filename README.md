@@ -60,12 +60,12 @@
 </p>
 
 <h1>📊 GitHub Stats:</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="GitHub Stats" /><br/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="GitHub Stats" /><br/>
 <img src="https://streak-stats.demolab.com/?user=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="Top Languages" />
 
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=abhisheksuvarna782-coder&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=abhisheksuvarna782-coder&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
 
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote" />
