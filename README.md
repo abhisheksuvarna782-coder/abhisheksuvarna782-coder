@@ -70,7 +70,4 @@
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote" />
 
-<hr>
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=abhisheksuvarna782-coder&amp;icon=0&amp;color=0" alt="Visit Count" /></a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
