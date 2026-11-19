@@ -65,6 +65,9 @@
 <img src="https://streak-stats.demolab.com/?user=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak" /><br/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="Top Languages" />
 
+<h2>🐍 Contribution Snake</h2>
+<img src="https://raw.githubusercontent.com/abhisheksuvarna782-coder/abhisheksuvarna782-coder/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
 <h2>📈 GitHub Progress Graph</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksuvarna782-coder&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="GitHub Progress Graph" />
 
