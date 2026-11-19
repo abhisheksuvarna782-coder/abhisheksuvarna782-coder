@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hyy!!+Abhishek+Suvarna+here+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hyy!!+Abhishek+Suvarna+here+%F0%9F%91%8B" width="100%" />
 </h1>
 
 💫 About Me:
@@ -61,17 +61,17 @@
 </p>
 
 <h1>📊 GitHub Stats:</h1>
-<img src="https://github-readme-stats-fast.vercel.app/api?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="GitHub Stats" /><br/>
-<img src="https://streak-stats.demolab.com/?user=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak" /><br/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="GitHub Stats" width="495" /><br/>
+<img src="https://streak-stats.demolab.com/?user=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak" width="495" /><br/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhisheksuvarna782-coder&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="Top Languages" width="300" />
 
 <h2>📈 GitHub Progress Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksuvarna782-coder&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="GitHub Progress Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksuvarna782-coder&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="GitHub Progress Graph" width="100%" />
 
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-trophies.vercel.app/?username=abhisheksuvarna782-coder&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=abhisheksuvarna782-coder&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" width="100%" />
 
 <h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random Dev Quote" width="100%" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
