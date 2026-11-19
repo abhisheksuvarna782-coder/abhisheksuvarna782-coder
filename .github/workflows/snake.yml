@@ -24,6 +24,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=#ff2d95&color_dots=#161b22,#3b0a45,#6a0f7a,#a020c8,#e040fb
 
+      - name: Speed up snake animation
+        run: |
+          python3 - <<'EOF'
+          import re, glob
+          SPEED = 1.5  # 1.5 = 50% faster, 2 = twice as fast
+          for f in glob.glob("dist/*.svg"):
+              s = open(f).read()
+              s = re.sub(r'(?<![\w.#-])(\d+)ms',
+                         lambda m: str(max(1, int(int(m.group(1)) / SPEED))) + 'ms', s)
+              open(f, "w").write(s)
+          EOF
+
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
